@@ -56,17 +56,7 @@ The **AI-Powered Random Quote Generator** is a sleek, modern web application bui
 
 ---
 
-## 🎬 Demo
 
-### Light Mode
-![Light Mode Preview](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Random+Quote+Generator+-+Light+Mode)
-
-### Dark Mode
-![Dark Mode Preview](https://via.placeholder.com/800x400/1F2937/E5E7EB?text=Random+Quote+Generator+-+Dark+Mode)
-
-> **Note:** Add your own screenshots by replacing the placeholder images above with actual screenshots of your application.
-
----
 
 ## 🚀 Installation
 
